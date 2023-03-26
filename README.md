@@ -5,7 +5,7 @@ Additional analysis for the Hans Niemann and Magnus Carlsen chess cheating contr
 Original analysis and inspiration can be found here: https://github.com/NateSolon/hans
 
 ## Visual Report
-[Final Paper](./ANLY511%20Final%20Project%20Presentation.pdf)
+[Final Powerpoint](./ANLY511%20Final%20Project%20Presentation.pdf)
 
 ## Written Report
 [Final Paper](./ANLY%20511%20Final%20Paper.pdf)
